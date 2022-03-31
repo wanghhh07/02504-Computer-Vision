@@ -5,5 +5,5 @@ week3: Stereo vision, and triangulation\
 week4: Camera calibration\
 week5: Nonlinear optimization, camera calibration\
 week6: Simple Features-Harris corner detector and Canny edge detection\
-week7: Robust model fitting
+week7: Robust model fitting\  
 week8: Blobs and SIFT features
