@@ -8,4 +8,5 @@ week6: Simple Features-Harris corner detector and Canny edge detection\
 week7: Robust model fitting\
 week8: Blobs and SIFT features\
 week10: Image stitching\
-week11: Visual Odometry
+week11: Visual Odometry\
+week13: Structured light
